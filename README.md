@@ -1,4 +1,4 @@
-## THIS IS A DIRECT COPY OF THE CODE EXCEPT FOR THE CHANGE IN COMPOSER REQUIRE-DEV SO IT IS USABLE IN OTHER PROJECTS
+## THIS IS A DIRECT COPY OF THE CODE (https://github.com/vicchi/geojson-rewind) EXCEPT FOR THE CHANGE IN COMPOSER REQUIRE-DEV SO IT IS USABLE IN OTHER PROJECTS
 
 [![Build Status](https://travis-ci.org/vicchi/geojson-rewind.svg?branch=master)](https://travis-ci.org/vicchi/geojson-rewind)
 
